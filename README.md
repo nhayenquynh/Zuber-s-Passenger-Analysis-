@@ -9,7 +9,7 @@ Working with a database, you'll analyze data from competitors and test a hypothe
 
 ![image](https://github.com/nhayenquynh/Sprint_6_project/assets/125513684/5709b91e-deed-4889-a90a-81b61490461b)
 
-# Requirements/Questions to be answered: 
+# Instructions/Questions to be answered: 
 
 **Write a code to parse the data on weather in Chicago in November 2017 from the website**
 https://practicum-content.s3.us-west-1.amazonaws.com/data-analyst-eng/moved_chicago_weather_2017.html

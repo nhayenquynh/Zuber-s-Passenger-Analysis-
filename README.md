@@ -32,7 +32,7 @@ https://practicum-content.s3.us-west-1.amazonaws.com/data-analyst-eng/moved_chic
 4. Make graphs: taxi companies and number of rides, top 10 neighborhoods by number of dropoffs
 5. draw conclusions based on each graph and explain the results
 
-**Testing hypotheses**
+**Testing hypotheses (Python)**
 Test the hypothesis: "The average duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays."
 - Set the significance level (alpha) value on your own.
 

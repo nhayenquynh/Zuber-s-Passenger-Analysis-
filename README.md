@@ -39,3 +39,7 @@ Test the hypothesis: "The average duration of rides from the Loop to O'Hare Inte
 Explain:
 - how you formed the null and alternative hypotheses
 - what criterion you used to test the hypotheses and why
+
+# Generated Chart: 
+<img width="908" alt="image" src="https://github.com/nhayenquynh/Zuber-s-Passenger-Analysis-/assets/125513684/0c54b699-2bc9-4592-8b28-29af9366a098">
+
